@@ -1,0 +1,10 @@
+IPoint  Interface (IP)
+
+                Shape (Abstract CLASS)
+
+Triangle(IP)             Circle          Hexagon(IP)
+
+                        3DCircle
+
+
+

@@ -1,0 +1,3 @@
+Consider a Bus reservation system that allows online reservations to its customers. Suppose there are
+two transactions of reservation for a particular seat simultaneously which leads to race condition.
+Develop a solution to avoid the unpredictable situation with a program.

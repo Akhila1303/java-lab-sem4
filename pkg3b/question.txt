@@ -1,0 +1,2 @@
+Create a class temperature with member variable temp. Implement exception handling to test if
+temperature is equal to zero.

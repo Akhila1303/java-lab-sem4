@@ -1,0 +1,2 @@
+Create a class called Library. Write a program to manipulate the book information from files by
+using FileInputStream and FileOutputStream.
