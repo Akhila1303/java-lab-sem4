@@ -1,0 +1,22 @@
+Write code to
+i)chars arr={‘a’,’b’,’’c’.’d’,’e’,’f’}
+  String str= new String(arr,2,3);
+  String(String strObj)
+ii)str=”hello world”
+   str2=”bms college”
+   str=str1+str2;
+iii) override toString() function to print “good morning”
+iv) Assign a different char at pos 2 in a string “hello”
+v) Convert the string “ This is java programming” to array of characters
+vi) Given the strings
+    String s1= “hello world”
+    String s2=”hello world”
+    String s3=”bms college“
+    Write appropriate code to compare s1 with s2 and s1 with s3 for
+        i)equal strings and also using compareTo function also compare given region of string s1 with string s2,
+        demonstrate the difference between equals and ==.
+vii) To search a good in a string s1=”good morning” and s2=”morning is started”
+viii) Extract a substring good in the string s2=”good morning”
+ix) Replace Hello with greetings in the given string s1=”hello world”
+x) Eliminate spaces in the string s1=”Hello BMSCE Good Morning”
+xi) Join the string s1={ “xyz”,24} with email id and phone number

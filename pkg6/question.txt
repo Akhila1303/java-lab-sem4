@@ -1,0 +1,4 @@
+6a Develop a program to create a Array list and perform operation on it.
+6b Write a hash set for books with id, name, author, and quantity as attributes and perform operations on it.
+6c Program to remove the highest and lowest value from a tree set
+6d Program to demonstrate add, add first, add last, clear and display the elements in ArrayDeque
